@@ -1,0 +1,12 @@
+body{
+  width: 60vw;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+#root>div{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
